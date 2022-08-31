@@ -10,10 +10,12 @@
 lets do a demo of adding 2 and 5 to get expected output of 7
 
 2) input = 2
+3) 
 ![image](https://user-images.githubusercontent.com/73298685/187738904-dc53f0c5-7d36-4746-97e5-2414e8ef01e4.png)
 
 
 3) input = 5
+
 ![image](https://user-images.githubusercontent.com/73298685/187738963-8ed1e680-03b3-49b6-98b3-0deca54d3236.png)
 
 
