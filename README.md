@@ -10,7 +10,7 @@
 lets do a demo of adding 2 and 5 to get expected output of 7
 
 2) input = 2
-3) 
+ 
 ![image](https://user-images.githubusercontent.com/73298685/187738904-dc53f0c5-7d36-4746-97e5-2414e8ef01e4.png)
 
 
@@ -22,3 +22,11 @@ lets do a demo of adding 2 and 5 to get expected output of 7
 4) output = 7
 
 ![image](https://user-images.githubusercontent.com/73298685/187739099-aa25f0af-4428-427e-a2c3-5a0fe2a0efcd.png)
+
+
+here we see thr output 7 in the textfield 
+
+
+Problems :
+
+the main problem with this application i cant display both number with its operatator at the same time before display the output for the calculation
